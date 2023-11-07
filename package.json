@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cypress": "^13.2.0"
+  },
+  "name": "cypressauto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VishwaTeja",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mysql": "^2.18.1"
+  }
+}
